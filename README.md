@@ -1,2 +1,4 @@
-# theoretical-mechanics
-理力课后题解 Key to Theoretical Mechanics
+# 理力课后题解
+本仓库将在未来作为《理力课后题解》的代码发布区。
+
+源代码的标准化工作尚未完成，暂不发布。
